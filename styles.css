@@ -86,7 +86,8 @@ body {
     background: var(--white);
     padding: 1rem 1rem 2.5rem 1rem;
     border-radius: 1rem;
-    width: 375px;
+    max-width: 24rem;
+    text-align: center;
 }
 
 .img {
@@ -101,11 +102,9 @@ body {
     font-weight: bold;
     color: var(--dark-blue);
     font-size: 1.5rem;
-    text-align: center;
 }
 
 .secondary-text {
     color: var(--grayish-blue);
     font-size: 1.125rem;
-    text-align: center;
 }
