@@ -11,15 +11,14 @@ pnpm install
 pnpm dev
 ```
 
-
 ## Скриншоты:
-
+![preview](images/image-qr-code.png)
 ## Технологии которые использовал:
 - HTML
 - CSS
 
 ## Проблемы с которыми столкнулся:
-obsidian://open?vault=Obsidian&file=Attachments%2FPasted%20image%2020231224205958.png
+
 - Впервые столкнулся с вариативными шрифтами(variable fonts), не знал как подключить/использовать
 
 Решение:
