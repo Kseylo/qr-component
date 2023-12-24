@@ -1,7 +1,7 @@
 - Превью: https://kseylo.github.io/qr-component/
 ## Установка:
 
-Установка node_modules
+Установка зависимостей
 ```
 pnpm install
 ```
