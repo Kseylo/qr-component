@@ -12,7 +12,7 @@ pnpm dev
 ```
 
 ## Скриншоты:
-![preview](images/image-qr-code.png)
+![preview](screenshots/preview.png)
 ## Технологии которые использовал:
 - HTML
 - CSS
